@@ -14,6 +14,7 @@
     "jp.keijiro.klak.ndi": "2.1.0",
     "jp.keijiro.klak.spout": "2.0.3",
     "jp.keijiro.klak.syphon": "0.0.4",
+    "jp.keijiro.osc-jack": "2.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
